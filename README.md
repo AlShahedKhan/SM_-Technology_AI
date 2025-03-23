@@ -12,8 +12,6 @@ Markdown links/codes
 
 Message timestamps
 
-
-
  Let me know if you’d like:
 
 The AI to stream character-by-character instead of word-by-word
