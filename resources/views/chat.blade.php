@@ -26,7 +26,7 @@
                 <!-- AI message -->
                 <div class="flex justify-start">
                     <div>
-                        <p class="font-semibold text-green-600 text-right mb-1">AI:</p>
+                        <p class="font-semibold text-green-600 text-left mb-1">AI:</p>
 
                         @if ($loop->last)
                             <!-- Streaming latest AI response -->
